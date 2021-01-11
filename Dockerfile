@@ -1,2 +1,2 @@
-FROM sksr/webapp
+FROM sksr/apache
 ADD . /var/www/html
